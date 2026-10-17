@@ -1,4 +1,4 @@
-Conclucion
+Conclusion
 
 Durante este trabajo aprendí un poco más sobre cómo funciona la regresión lineal y cómo podemos utilizar Python y Scikit-learn para entrenar modelos y realizar predicciones a partir de un conjunto de datos.
 Uno de los aspectos que más me costó fue entender cómo se dividen los datos entre entrenamiento y prueba, y cómo interpretar los resultados obtenidos mediante el R². 
